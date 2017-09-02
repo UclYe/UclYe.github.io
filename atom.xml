@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://uclye.github.io/"/>
-  <updated>2017-08-20T07:03:39.439Z</updated>
+  <updated>2017-09-02T13:36:20.999Z</updated>
   <id>http://uclye.github.io/</id>
   
   <author>
@@ -16,30 +16,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Lorem ipsum</title>
-    <link href="http://uclye.github.io/2017/08/20/2017-08-20-untitled/"/>
-    <id>http://uclye.github.io/2017/08/20/2017-08-20-untitled/</id>
-    <published>2017-08-20T07:03:39.392Z</published>
-    <updated>2017-08-20T07:03:39.439Z</updated>
+    <title>Book List</title>
+    <link href="http://uclye.github.io/2017/09/01/2017-09-02-booklist/"/>
+    <id>http://uclye.github.io/2017/09/01/2017-09-02-booklist/</id>
+    <published>2017-09-01T12:39:55.000Z</published>
+    <updated>2017-09-02T13:36:20.999Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Lorem-ipsum"><a href="#Lorem-ipsum" class="headerlink" title="Lorem ipsum"></a>Lorem ipsum</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-<p><img src="$appres/images/building.jpg" alt="Praesent accumsan ipsum sit"></p>
-<p>Phasellus eu tempor dolor. Nulla hendrerit convallis purus et elementum. Suspendisse non magna vel justo tincidunt finibus. Nullam dui erat, malesuada eget viverra non, finibus a nisl.</p>
-<p>Duis sollicitudin in magna vitae convallis. Vestibulum nec fermentum justo, sed vestibulum tortor. Sed hendrerit ligula in imperdiet tempus. Duis a lorem diam. Duis hendrerit ligula lacus, vitae aliquet orci imperdiet eleifend. Mauris accumsan, quam molestie ultrices placerat, sapien turpis mattis purus, eget euismod arcu est nec sapien.</p>
-<p>Integer tincidunt nunc quis tortor tristique, ut egestas metus volutpat. In sit amet dolor leo. dictum in odio eu vulputate. Nullam a ornare elit, a sollicitudin augue.</p>
-<p>Donec neque velit, gravida eu tempor nec, sagittis ut lectus. Quisque laoreet dignissim facilisis. Cras vel rutrum odio, in mollis elit. <em>Maecenas</em> malesuada est sit amet eleifend vulputate. Quisque in ultrices erat. Aenean mollis nibh et ligula <em>accumsan</em> semper vitae sed nisi. Ut pulvinar aliquam nulla, id cursus augue tincidunt sed.</p>
-<h2 id="Arcu-est-nec-sapien"><a href="#Arcu-est-nec-sapien" class="headerlink" title="Arcu est nec sapien"></a>Arcu est nec sapien</h2><p>Maecenas id feugiat urna, sed volutpat purus. Vivamus porttitor consequat vulputate.</p>
-<p><img src="$appres/images/toy.jpg" alt="scelerisque eu purus ac, semper varius lacus."></p>
-<p>Nullam at erat faucibus mi interdum sodales. Quisque venenatis sagittis justo a volutpat. Nam libero enim, auctor iaculis velit tincidunt, blandit blandit enim. </p>
-<p>Fusce et metus libero. Phasellus turpis odio, scelerisque eu purus ac, semper varius lacus. Praesent ullamcorper blandit sem, eu feugiat leo. Nulla hendrerit convallis purus et elementum. Suspendisse non magna vel justo tincidunt finibus. Nullam dui erat, malesuada eget viverra non, finibus a nisl.</p>
-]]></content>
+    <content type="html"><![CDATA[<p><img src="http://wx1.sinaimg.cn/large/85243d1egy1fj5jh84wp4j212w0pxjw9.jpg" alt=""></p>
+<h1 id="BOOK-LIST"><a href="#BOOK-LIST" class="headerlink" title="BOOK LIST"></a>BOOK LIST</h1><h2 id="Reading"><a href="#Reading" class="headerlink" title="Reading"></a>Reading</h2><ol>
+<li><strong>时间足够你爱</strong> <em>by 罗伯特·海因莱因</em></li>
+</ol>
+<h2 id="Scheduled"><a href="#Scheduled" class="headerlink" title="Scheduled"></a>Scheduled</h2><ol>
+<li><strong>鱼王</strong> <em>by 维克多·阿斯塔菲耶夫</em></li>
+</ol>
+<h2 id="Finished"><a href="#Finished" class="headerlink" title="Finished"></a>Finished</h2>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Lorem-ipsum&quot;&gt;&lt;a href=&quot;#Lorem-ipsum&quot; class=&quot;headerlink&quot; title=&quot;Lorem ipsum&quot;&gt;&lt;/a&gt;Lorem ipsum&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consec
+      &lt;p&gt;&lt;img src=&quot;http://wx1.sinaimg.cn/large/85243d1egy1fj5jh84wp4j212w0pxjw9.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;BOOK-LIST&quot;&gt;&lt;a href=&quot;#BOOK-LIST&quot; class=&quot;he
     
     </summary>
     
+    
+      <category term="Book List" scheme="http://uclye.github.io/tags/Book-List/"/>
     
   </entry>
   
@@ -48,7 +48,7 @@
     <link href="http://uclye.github.io/2017/08/19/2017-08-19-untitled/"/>
     <id>http://uclye.github.io/2017/08/19/2017-08-19-untitled/</id>
     <published>2017-08-19T07:52:29.993Z</published>
-    <updated>2017-08-26T17:02:03.304Z</updated>
+    <updated>2017-09-02T12:41:06.992Z</updated>
     
     <content type="html"><![CDATA[<p><img src="$appres/images/night.jpg" alt="Nulla euismod, vitae aliquet orci eleifend."></p>
 <h2 id="Lorem-ipsum"><a href="#Lorem-ipsum" class="headerlink" title="Lorem ipsum"></a>Lorem ipsum</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu tempor dolor. Nulla hendrerit convallis purus et elementum. <strong>Suspendisse</strong> non magna vel <strong>justo tincidunt</strong> finibus. Nullam dui erat, malesuada eget viverra non, finibus a nisl.</p>
@@ -77,33 +77,29 @@
       <category term="malesuada" scheme="http://uclye.github.io/categories/consectetur/malesuada/"/>
     
     
-      <category term="semper" scheme="http://uclye.github.io/tags/semper/"/>
-    
-      <category term="fermentum" scheme="http://uclye.github.io/tags/fermentum/"/>
+      <category term="semp" scheme="http://uclye.github.io/tags/semp/"/>
     
   </entry>
   
   <entry>
-    <title>STAY TURNED</title>
-    <link href="http://uclye.github.io/2017/05/28/ALTERED/"/>
-    <id>http://uclye.github.io/2017/05/28/ALTERED/</id>
-    <published>2017-05-28T10:14:40.000Z</published>
-    <updated>2017-05-28T15:03:13.000Z</updated>
+    <title>基于token的快捷支付</title>
+    <link href="http://uclye.github.io/2017/05/21/2017-09-02-untitled/"/>
+    <id>http://uclye.github.io/2017/05/21/2017-09-02-untitled/</id>
+    <published>2017-05-21T12:39:55.000Z</published>
+    <updated>2017-09-02T13:30:49.519Z</updated>
     
-    <content type="html"><![CDATA[<p>更改了博客主题，太中意这个沉浸式状态栏设计了，STAY TURNED！</p>
+    <content type="html"><![CDATA[<h1 id="基于token的快捷支付"><a href="#基于token的快捷支付" class="headerlink" title="基于token的快捷支付"></a>基于token的快捷支付</h1><p>先挖个坑，有空的时候填上</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;更改了博客主题，太中意这个沉浸式状态栏设计了，STAY TURNED！&lt;/p&gt;
+      &lt;h1 id=&quot;基于token的快捷支付&quot;&gt;&lt;a href=&quot;#基于token的快捷支付&quot; class=&quot;headerlink&quot; title=&quot;基于token的快捷支付&quot;&gt;&lt;/a&gt;基于token的快捷支付&lt;/h1&gt;&lt;p&gt;先挖个坑，有空的时候填上&lt;/p&gt;
 
     
     </summary>
     
     
-      <category term="hexo" scheme="http://uclye.github.io/tags/hexo/"/>
-    
-      <category term="折腾" scheme="http://uclye.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+      <category term="Fintech" scheme="http://uclye.github.io/tags/Fintech/"/>
     
   </entry>
   
@@ -112,9 +108,9 @@
     <link href="http://uclye.github.io/2017/05/21/cardpark%20journal/"/>
     <id>http://uclye.github.io/2017/05/21/cardpark journal/</id>
     <published>2017-05-21T12:39:55.000Z</published>
-    <updated>2017-08-26T17:02:21.564Z</updated>
+    <updated>2017-09-02T13:31:56.256Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="卡园日记"><a href="#卡园日记" class="headerlink" title="卡园日记"></a>卡园日记</h1><p>大周末的，比上班还累啊，划完船和KL、ZK、LH一起打的回来，窗外面夏天的阳光亮的晃眼，发动机嗡嗡响着，司机师傅打开收音机，主播张嘴是“中央人民广播电台，中央人民广播电台”，旁边大家正聊着WannaCry比特币勒索和买房，瞬间有种从当前时空跳脱开来的感觉，仿佛活在一个魔幻未来的夏天，身边的声音逐渐消失，取而代之的是来自远方的蝉鸣，想象中的蝉鸣，这样的夏天你会喜欢吗？</p>
+    <content type="html"><![CDATA[<h1 id="卡园日记"><a href="#卡园日记" class="headerlink" title="卡园日记"></a>卡园日记</h1><p>大周末的，比上班还累啊，划完船和KL、ZK、LH一起打的回来，窗外面夏天的阳光亮的晃眼，发动机嗡嗡响着，司机师傅打开收音机，主播张嘴是“中央人民广播电台，中央人民广播电台”，旁边大家从WannaCry比特币勒索聊到买房，瞬间有种从当前时空跳脱开来的感觉，仿佛活在一个魔幻未来的夏天，身边的声音逐渐消失，取而代之的是来自远方的蝉鸣，想象中的蝉鸣，这样的夏天你会喜欢吗？</p>
 <p>回到世界尽头，打开车门，风吹过来一下拉回现实，回到家，一睡就是一下午。早上没涂防晒霜没戴袖套，手臂上晒得通红。</p>
 <img src="/2017/05/21/cardpark%20journal/jike_1495373472002_pic.jpeg" alt="jike_1495373472002_pic.jpeg" title="">]]></content>
     
@@ -126,41 +122,6 @@
     
     
       <category term="Cardpark Journal" scheme="http://uclye.github.io/tags/Cardpark-Journal/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ABOUT THIS BLOG</title>
-    <link href="http://uclye.github.io/2017/05/13/1st%20note/"/>
-    <id>http://uclye.github.io/2017/05/13/1st note/</id>
-    <published>2017-05-13T08:01:14.044Z</published>
-    <updated>2017-05-28T14:37:20.070Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote>
-<p>人若无名，便可专心练剑</p>
-</blockquote>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="280" height="52" src="//music.163.com/outchain/player?type=2&id=28334931&auto=0&height=32"></iframe>
-
-
-
-<p>写写东西，不去翻来覆去的想同一些想不出结果的事情，这样头发应该秃得慢一点，嗯，谢谢收看!</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;人若无名，便可专心练剑&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;280&quot; height=&quot;52&quot; s
-    
-    </summary>
-    
-    
-      <category term="Quotes" scheme="http://uclye.github.io/tags/Quotes/"/>
-    
-      <category term="ABOUT" scheme="http://uclye.github.io/tags/ABOUT/"/>
-    
-      <category term="MUSIC" scheme="http://uclye.github.io/tags/MUSIC/"/>
     
   </entry>
   
