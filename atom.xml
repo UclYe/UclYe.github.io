@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://uclye.github.io/"/>
-  <updated>2017-09-02T14:12:21.158Z</updated>
+  <updated>2017-09-03T09:21:02.490Z</updated>
   <id>http://uclye.github.io/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Beyond Tools</title>
+    <link href="http://uclye.github.io/2017/09/03/2017-09-03-beyond-tools/"/>
+    <id>http://uclye.github.io/2017/09/03/2017-09-03-beyond-tools/</id>
+    <published>2017-09-03T12:39:55.000Z</published>
+    <updated>2017-09-03T09:21:02.490Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Beyond-Tools：工具迷思"><a href="#Beyond-Tools：工具迷思" class="headerlink" title="Beyond Tools：工具迷思"></a>Beyond Tools：工具迷思</h1><blockquote>
+<p>心为物宰，非为物役<br>挖坑待填</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Beyond-Tools：工具迷思&quot;&gt;&lt;a href=&quot;#Beyond-Tools：工具迷思&quot; class=&quot;headerlink&quot; title=&quot;Beyond Tools：工具迷思&quot;&gt;&lt;/a&gt;Beyond Tools：工具迷思&lt;/h1&gt;&lt;blockquote&gt;
+
+    
+    </summary>
+    
+    
+      <category term="Personal Philosophy" scheme="http://uclye.github.io/tags/Personal-Philosophy/"/>
+    
+      <category term="Tools" scheme="http://uclye.github.io/tags/Tools/"/>
+    
+  </entry>
   
   <entry>
     <title>Book List</title>
@@ -40,6 +66,29 @@
     
     
       <category term="Book List" scheme="http://uclye.github.io/tags/Book-List/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于token的快捷支付</title>
+    <link href="http://uclye.github.io/2017/09/02/2017-09-02-token-payment/"/>
+    <id>http://uclye.github.io/2017/09/02/2017-09-02-token-payment/</id>
+    <published>2017-09-01T16:00:00.000Z</published>
+    <updated>2017-09-03T09:22:02.851Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Finnotes-基于Token的快捷支付"><a href="#Finnotes-基于Token的快捷支付" class="headerlink" title="#Finnotes|基于Token的快捷支付"></a>#Finnotes|基于Token的快捷支付</h1><p>先挖个坑，有空的时候填上</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Finnotes-基于Token的快捷支付&quot;&gt;&lt;a href=&quot;#Finnotes-基于Token的快捷支付&quot; class=&quot;headerlink&quot; title=&quot;#Finnotes|基于Token的快捷支付&quot;&gt;&lt;/a&gt;#Finnotes|基于Token的快捷支付
+    
+    </summary>
+    
+    
+      <category term="Fintech" scheme="http://uclye.github.io/tags/Fintech/"/>
+    
+      <category term="Finnotes" scheme="http://uclye.github.io/tags/Finnotes/"/>
     
   </entry>
   
@@ -78,28 +127,6 @@
     
     
       <category term="semp" scheme="http://uclye.github.io/tags/semp/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>基于token的快捷支付</title>
-    <link href="http://uclye.github.io/2017/05/21/2017-09-02-untitled/"/>
-    <id>http://uclye.github.io/2017/05/21/2017-09-02-untitled/</id>
-    <published>2017-05-21T12:39:55.000Z</published>
-    <updated>2017-09-02T15:26:03.413Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="基于token的快捷支付"><a href="#基于token的快捷支付" class="headerlink" title="基于token的快捷支付"></a>基于token的快捷支付</h1><p>先挖个坑，有空的时候填上</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;基于token的快捷支付&quot;&gt;&lt;a href=&quot;#基于token的快捷支付&quot; class=&quot;headerlink&quot; title=&quot;基于token的快捷支付&quot;&gt;&lt;/a&gt;基于token的快捷支付&lt;/h1&gt;&lt;p&gt;先挖个坑，有空的时候填上&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-      <category term="Fintech" scheme="http://uclye.github.io/tags/Fintech/"/>
     
   </entry>
   

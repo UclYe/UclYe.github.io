@@ -10,7 +10,7 @@
   
   <title>
     
-      UCLYE
+      Beyond Tools | UCLYE
     
   </title>
   <link href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -100,57 +100,116 @@
 </header>
 
     <div id="article-banner">
-  <h2>Archives</h2>
-  <p class="post-date">文章归档</p>
+  <h2>Beyond Tools</h2>
+  <p class="post-date">2017-09-03</p>
 </div>
-<main class="app-body" id="archives">
-  
-  
-  
-    <section class="time-section">
-  <h1 class="section-year">
-    2017
-  </h1>
-  <div class="section-list">
-    
-    
-      <div class="section-list-item">
-        <a href="/2017/09/03/2017-09-03-beyond-tools/" class="archive-title">Beyond Tools</a>
-        <p class="archive-date">09-03</p>
-      </div>
-    
-      <div class="section-list-item">
-        <a href="/2017/09/02/2017-09-02-booklist/" class="archive-title">Book List</a>
-        <p class="archive-date">09-02</p>
-      </div>
-    
-      <div class="section-list-item">
-        <a href="/2017/09/02/2017-09-02-token-payment/" class="archive-title">基于token的快捷支付</a>
-        <p class="archive-date">09-02</p>
-      </div>
-    
-      <div class="section-list-item">
-        <a href="/2017/08/19/2017-08-19-untitled/" class="archive-title">Lorem ipsum</a>
-        <p class="archive-date">08-19</p>
-      </div>
-    
-      <div class="section-list-item">
-        <a href="/2017/05/21/cardpark journal/" class="archive-title">Cardpark Journal</a>
-        <p class="archive-date">05-21</p>
-      </div>
-    
-  </div>
+<main class="app-body">
+  <article class="post-article">
+    <section class="markdown-content"><h1 id="Beyond-Tools：工具迷思"><a href="#Beyond-Tools：工具迷思" class="headerlink" title="Beyond Tools：工具迷思"></a>Beyond Tools：工具迷思</h1><blockquote>
+<p>心为物宰，非为物役<br>挖坑待填</p>
+</blockquote>
 </section>
-  
+    
+      <div class="tags">
+        <span>Tags:</span>
+        
+  <a href="/tags#Personal Philosophy" >
+    <span class="tag-code">Personal Philosophy</span>
+  </a>
+
+  <a href="/tags#Tools" >
+    <span class="tag-code">Tools</span>
+  </a>
+
+      </div>
+    
+    
+      <!-- UY BEGIN -->
+      <div id="uyan_frame"></div>
+      <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js"></script>
+      <!-- UY END -->
+    
+  </article>
 </main>
 
 <script>
   (function () {
-    var url = 'http://uclye.github.io/tags/semp/index.html';
-    $('#article-banner').geopattern(url);
-    $('.header').removeClass('fixed-header');
+    var url = 'http://uclye.github.io/2017/09/03/2017-09-03-beyond-tools/';
+    var banner = 'http://wx1.sinaimg.cn/large/85243d1egy1fj6hocnhgwj21kw1a7e81.jpg'
+    if (banner) {
+      $('#article-banner').css({
+        'background-image': 'url(' + banner + ')'
+      })
+    } else {
+      $('#article-banner').geopattern(url)
+    }
+    $('.header').removeClass('fixed-header')
+
+     // error image
+    $(".markdown-content img").on('error', function() {
+      $(this).attr('src', 'http://file.muyutech.com/error-img.png') 
+    })
+
+    // zoom image
+    $(".markdown-content img").on('click', function() {
+      var src = $(this).attr('src')
+      var imageW = $(this).width()
+      var imageH = $(this).height()
+      
+      var zoom = ($(window).width() * 0.95 / imageW).toFixed(2)
+      zoom = zoom < 1 ? 1 : zoom
+      zoom = zoom > 2 ? 2 : zoom
+      var transY = (($(window).height() - imageH) / 2).toFixed(2)
+
+      $('body').append('<div class="image-view-wrap"><div class="image-view-inner"><img src="'+ src +'" /></div></div>')
+      $('.image-view-wrap').addClass('wrap-active')
+      $('.image-view-wrap img').css({
+        'width': `${imageW}`,
+        'transform': `translate3d(0, ${transY}px, 0) scale3d(${zoom}, ${zoom}, 1)`
+      })
+      $('html').css('overflow', 'hidden')
+
+      $('.image-view-wrap').on('click', function() {
+        $(this).remove()
+        $('html').attr('style', '')
+      })
+    })
+
+    // qrcode
+    var qr = new QRious({
+      element: document.getElementById('share-qrcode'),
+      value: document.location.href
+    });
+
+    // gitment
+    var gitmentConfig = "undefined";
+    if (gitmentConfig != "undefined") {
+      var gitment = new Gitment({
+        id: "Beyond Tools",
+        owner: "undefined",
+        repo: "undefined",
+        oauth: {
+          client_id: "undefined",
+          client_secret: "undefined"
+        },
+        theme: {
+          render(state, instance) {
+            const container = document.createElement('div')
+            container.lang = "en-US"
+            container.className = 'gitment-container gitment-root-container'
+            container.appendChild(instance.renderHeader(state, instance))
+            container.appendChild(instance.renderEditor(state, instance))
+            container.appendChild(instance.renderComments(state, instance))
+            container.appendChild(instance.renderFooter(state, instance))
+            return container;
+          }
+        }
+      })
+      gitment.render(document.getElementById('comments'))
+    }
   })();
 </script>
+
     <div class="scroll-top">
   <span class="arrow-icon"></span>
 </div>
