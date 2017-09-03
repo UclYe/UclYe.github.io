@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://uclye.github.io/"/>
-  <updated>2017-09-03T09:21:02.490Z</updated>
+  <updated>2017-09-03T10:03:02.433Z</updated>
   <id>http://uclye.github.io/</id>
   
   <author>
@@ -20,11 +20,12 @@
     <link href="http://uclye.github.io/2017/09/03/2017-09-03-beyond-tools/"/>
     <id>http://uclye.github.io/2017/09/03/2017-09-03-beyond-tools/</id>
     <published>2017-09-03T12:39:55.000Z</published>
-    <updated>2017-09-03T09:21:02.490Z</updated>
+    <updated>2017-09-03T10:03:02.433Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Beyond-Tools：工具迷思"><a href="#Beyond-Tools：工具迷思" class="headerlink" title="Beyond Tools：工具迷思"></a>Beyond Tools：工具迷思</h1><blockquote>
-<p>心为物宰，非为物役<br>挖坑待填</p>
+<p>心为物宰，非为物役</p>
 </blockquote>
+<p>挖坑待填</p>
 ]]></content>
     
     <summary type="html">
@@ -70,18 +71,18 @@
   </entry>
   
   <entry>
-    <title>基于token的快捷支付</title>
+    <title>Finnotes|基于Token的快捷支付</title>
     <link href="http://uclye.github.io/2017/09/02/2017-09-02-token-payment/"/>
     <id>http://uclye.github.io/2017/09/02/2017-09-02-token-payment/</id>
     <published>2017-09-01T16:00:00.000Z</published>
-    <updated>2017-09-03T09:22:02.851Z</updated>
+    <updated>2017-09-03T10:02:02.912Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Finnotes-基于Token的快捷支付"><a href="#Finnotes-基于Token的快捷支付" class="headerlink" title="#Finnotes|基于Token的快捷支付"></a>#Finnotes|基于Token的快捷支付</h1><p>先挖个坑，有空的时候填上</p>
+    <content type="html"><![CDATA[<h1 id="Finnotes-基于Token的快捷支付"><a href="#Finnotes-基于Token的快捷支付" class="headerlink" title="Finnotes|基于Token的快捷支付"></a>Finnotes|基于Token的快捷支付</h1><p>先挖个坑，有空的时候填上</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Finnotes-基于Token的快捷支付&quot;&gt;&lt;a href=&quot;#Finnotes-基于Token的快捷支付&quot; class=&quot;headerlink&quot; title=&quot;#Finnotes|基于Token的快捷支付&quot;&gt;&lt;/a&gt;#Finnotes|基于Token的快捷支付
+      &lt;h1 id=&quot;Finnotes-基于Token的快捷支付&quot;&gt;&lt;a href=&quot;#Finnotes-基于Token的快捷支付&quot; class=&quot;headerlink&quot; title=&quot;Finnotes|基于Token的快捷支付&quot;&gt;&lt;/a&gt;Finnotes|基于Token的快捷支付&lt;/
     
     </summary>
     
@@ -89,44 +90,6 @@
       <category term="Fintech" scheme="http://uclye.github.io/tags/Fintech/"/>
     
       <category term="Finnotes" scheme="http://uclye.github.io/tags/Finnotes/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lorem ipsum</title>
-    <link href="http://uclye.github.io/2017/08/19/2017-08-19-untitled/"/>
-    <id>http://uclye.github.io/2017/08/19/2017-08-19-untitled/</id>
-    <published>2017-08-19T07:52:29.993Z</published>
-    <updated>2017-09-02T12:41:06.992Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="$appres/images/night.jpg" alt="Nulla euismod, vitae aliquet orci eleifend."></p>
-<h2 id="Lorem-ipsum"><a href="#Lorem-ipsum" class="headerlink" title="Lorem ipsum"></a>Lorem ipsum</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu tempor dolor. Nulla hendrerit convallis purus et elementum. <strong>Suspendisse</strong> non magna vel <strong>justo tincidunt</strong> finibus. Nullam dui erat, malesuada eget viverra non, finibus a nisl.</p>
-<h2 id="Ac-semper-purus"><a href="#Ac-semper-purus" class="headerlink" title="Ac semper purus"></a>Ac semper purus</h2><p>Praesent accumsan ipsum sit amet varius tempor. Duis sollicitudin in magna vitae convallis. Vestibulum nec fermentum justo, sed vestibulum tortor. Sed hendrerit ligula in imperdiet tempus. Duis a lorem diam. Duis hendrerit ligula lacus, vitae aliquet orci imperdiet eleifend. Mauris accumsan, quam molestie ultrices placerat, sapien turpis mattis purus, eget euismod arcu est nec sapien.</p>
-<blockquote>
-<p>“Ipsum quia dolor sit amet, consectetur, adipisci velit…”</p>
-</blockquote>
-<p>Integer tincidunt nunc quis tortor tristique, ut egestas metus volutpat. In sit amet dolor leo. dictum in odio eu vulputate. Nullam a ornare elit, a sollicitudin augue.</p>
-<p>Donec neque velit, gravida eu tempor nec, sagittis ut lectus. Quisque laoreet dignissim facilisis. Cras vel rutrum odio, in mollis elit. <em>Maecenas</em> malesuada est sit amet eleifend vulputate. Quisque in ultrices erat. Aenean mollis nibh et ligula <em>accumsan</em> semper vitae sed nisi. Ut pulvinar aliquam nulla, id cursus augue tincidunt sed.</p>
-<h2 id="Arcu-est-nec-sapien"><a href="#Arcu-est-nec-sapien" class="headerlink" title="Arcu est nec sapien"></a>Arcu est nec sapien</h2><p>Maecenas id feugiat urna, sed volutpat purus. Vivamus porttitor consequat vulputate.</p>
-<p>Nullam at erat faucibus mi interdum sodales. Quisque venenatis sagittis justo a volutpat. Nam libero enim, auctor iaculis velit tincidunt, blandit blandit enim. </p>
-<p><img src="$appres/images/flower.jpg" alt="In quis enim hendrerit nulla porttitor posuere"></p>
-<p>A ultricies dui dictum sit amet. Vivamus velit eros, feugiat non est vel, sodales sagittis turpis. Suspendisse potenti. <del>Nulla facilisi</del> Ut feugiat, velit sit amet congue maximus, dui erat semper ex, ut sodales quam justo in odio. Integer fermentum sem quis dui ultrices scelerisque. </p>
-<p>Fusce et metus libero. Phasellus turpis odio, scelerisque eu purus ac, semper varius lacus. Praesent ullamcorper blandit sem, eu feugiat leo. Nulla hendrerit convallis purus et elementum. Suspendisse non magna vel justo tincidunt finibus. Nullam dui erat, malesuada eget viverra non, finibus a nisl.</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;$appres/images/night.jpg&quot; alt=&quot;Nulla euismod, vitae aliquet orci eleifend.&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;Lorem-ipsum&quot;&gt;&lt;a href=&quot;#Lorem-ipsum&quot; cl
-    
-    </summary>
-    
-      <category term="consectetur" scheme="http://uclye.github.io/categories/consectetur/"/>
-    
-      <category term="malesuada" scheme="http://uclye.github.io/categories/consectetur/malesuada/"/>
-    
-    
-      <category term="semp" scheme="http://uclye.github.io/tags/semp/"/>
     
   </entry>
   
